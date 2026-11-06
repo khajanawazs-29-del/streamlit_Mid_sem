@@ -1,4 +1,0 @@
-python
-streamlit
-pandas
-plotly
